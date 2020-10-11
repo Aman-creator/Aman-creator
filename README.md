@@ -2,7 +2,7 @@
   <img src="https://github.com/Aman-creator/Aman-creator/blob/master/icon/cover%20header.png.png">
   <br/>
   <br/>
-  <a href="https://ianiket.live"><img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Logo.png"></a>
+  <a href="https://aman-creator.github.io/modern-portfolio/index.html#!"><img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Logo.png"></a>
   <br/>  
 </p>
 <p align='center'>
